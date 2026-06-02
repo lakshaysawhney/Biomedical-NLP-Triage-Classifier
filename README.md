@@ -91,9 +91,9 @@ The main classification pipeline uses medical transcription text and correspondi
 
 ---
 
-## System Architecture
+## Biomedical NLP Pipeline
 
-![System Architecture](assets/system_architecture.png)
+![Biomedical NLP Pipeline](assets/pipeline.png)
 
 ---
 
