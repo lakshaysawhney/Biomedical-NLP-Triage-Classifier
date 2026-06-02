@@ -86,9 +86,7 @@ PubMedBERT is useful for biomedical classification tasks because its tokenizer a
 ## Dataset
 
 This project uses publicly available biomedical text dataset from Kaggle:
-
-1. **Medical Transcriptions Dataset**
-2. **Medical Speech, Transcription and Intent Dataset**
+**Medical Transcriptions Dataset**
 
 The main classification pipeline uses medical transcription text and corresponding medical specialty labels. After preprocessing and class filtering, the task is formulated as a **multi-class medical specialty classification problem** across 12 major specialty classes.
 
