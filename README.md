@@ -126,8 +126,8 @@ For **BioBERT** and **PubMedBERT**, text is encoded using Hugging Face tokenizer
 | Model | Framework | Tokenization | Max Length | Optimizer | Learning Rate |
 |---|---|---:|---:|---|---:|
 | LSTM | TensorFlow / Keras | Word-level tokenizer | 200 | Adam | 1e-3 |
-| BioBERT | PyTorch + Hugging Face | WordPiece tokenizer | 256 | AdamW-style Trainer | 2e-5 |
-| PubMedBERT | PyTorch + Hugging Face | Biomedical tokenizer | 384 | AdamW-style Trainer | 2e-5 |
+| BioBERT | PyTorch + Hugging Face | WordPiece tokenizer | 256 | Hugging Face Trainer / AdamW | 2e-5 |
+| PubMedBERT | PyTorch + Hugging Face | Biomedical tokenizer | 384 | Hugging Face Trainer / AdamW | 2e-5 |
 
 ---
 
