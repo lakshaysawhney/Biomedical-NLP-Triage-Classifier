@@ -93,7 +93,7 @@ The main classification pipeline uses medical transcription text and correspondi
 
 ## System Architecture
 
-![System Architecture](assets/pipeline.png)
+![System Architecture](assets/system_architecture.png)
 
 ---
 
